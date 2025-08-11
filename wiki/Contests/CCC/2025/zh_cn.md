@@ -6,7 +6,7 @@ tags:
 
 # Chinese Charting Contest 2025
 
-![CCC2025 banner](img/banner.jpg)
+![CCC2025 banner](img/banner.png)
 
 **Chinese Charting Contest 2025** (***CCC2025***) 是一个面向华人玩家参与的osu!mania写谱比赛。这次是 Chinese Charting Contest 赛事的第二次比赛。
 
@@ -91,7 +91,7 @@ tags:
 
 | 名次 | 谱师 |
 | :---- | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 |::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575)|
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 |::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588)|
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 |::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843)|
-| 参与奖（第4-第5） |::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894)|
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575)|
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588)|
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843)|
+| 参与奖（第4-第5） | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894)|
