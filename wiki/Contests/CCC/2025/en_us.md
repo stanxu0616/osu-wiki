@@ -6,7 +6,7 @@ tags:
 
 # Chinese Charting Contest 2025
 
-![CCC2025 banner](img/2025banner.jpg)
+![CCC2025 banner](img/banner.png)
 
 The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping contest for the Chinese players. It was the second installment of the Chinese Charting Contest.
 
@@ -62,10 +62,10 @@ The **Chinese Charting Contest 2025** (***CCC2025***) is an osu!mania mapping co
 
 | Place | Mapper(s) |
 | :---- | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner |::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575)|
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place |::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588)|
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place |::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843)|
-| Participation Award (4th-5th) |::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894)|
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") Winner | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575)|
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 2nd place | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588)|
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 3rd place | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843)|
+| Participation Award (4th-5th) | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894)|
 
 ## Ruleseta
 ### Contest rules
